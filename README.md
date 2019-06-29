@@ -5,4 +5,4 @@
 ## 文档
 * [简书](https://github.com/zxYin)
 ## 作者
-* [zxYin](https://github.com/zxYin)# Wechat-DraggedCard
+* [zxYin](https://github.com/zxYin)
